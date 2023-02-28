@@ -1,0 +1,8 @@
+controller: index
+action: index
+view: home
+
+brand: CHUNTAO LIU
+title: Apps for productivity
+title_suffix: " | CHUNTAO LIU"
+navbar_items: [ "/icon-composer/" ]

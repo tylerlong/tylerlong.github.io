@@ -1,0 +1,13 @@
+{
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "maml build -i maml -o docs"
+  },
+  "devDependencies": {
+    "maml": "^0.7.0",
+    "yarn-upgrade-all": "^0.7.2"
+  },
+  "dependencies": {
+    "markdown-core": "^1.2.1"
+  }
+}
