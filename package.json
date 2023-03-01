@@ -4,7 +4,7 @@
     "build": "maml build -i maml -o docs"
   },
   "devDependencies": {
-    "maml": "^0.7.0",
+    "maml": "^0.8.1",
     "yarn-upgrade-all": "^0.7.2"
   },
   "dependencies": {
