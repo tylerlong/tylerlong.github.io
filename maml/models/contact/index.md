@@ -1,5 +1,3 @@
-![business](http://lorempixel.com/1024/256/business/)
-
 ## Customer Support
 
 If you want to:

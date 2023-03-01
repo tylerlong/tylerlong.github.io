@@ -1,15 +1,18 @@
 # Icon Composer
 
-<img src="/img/icon-composer/icon.png" width="128" align="left" style="margin-right: 8px;"/>
+<img src="/img/icon-composer/icon.png" width="128" align="left" style="margin-right: 32px;"/>
 
-Product description here
+Icon Composer, compose icons easily. There are patterns in icons: 
+For background, most of them use a symmetrical shape like square or circle.
+For foreground, most of them use some icons or characters.
+This app allows you to compose icons easily by taking advantages of patterned mentioned above.
 
 
-### For OS X:
+### Download:
 
-<a href="https://itunes.apple.com/us/app/markdown-plus/id972585766?ls=1&mt=12" target="_blank">
-  <img src="/img/macappstore.png"/>
-</a>
+<img src="/img/macappstore.png"/>
+
+Stay tuned, we are going to be listed in Mac App Store!
 
 
 ## Screenshots
@@ -60,8 +63,13 @@ Product description here
 
 ## Features
 
-- feature 1
-- feature 2
+- Square
+- Circle
+- Emoji
+- Font Awesome Icons
+- Text with customized size, fonts and colors
+- Save as SVG
+- Save as PNG
 
 
 ## Questions & Support
