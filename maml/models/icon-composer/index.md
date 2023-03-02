@@ -5,7 +5,7 @@
 Icon Composer, compose icons easily. There are patterns in icons: 
 For background, most of them use a symmetrical shape like square or circle.
 For foreground, most of them use some icons or characters.
-This app allows you to compose icons easily by taking advantages of patterned mentioned above.
+This app allows you to compose icons easily by taking advantages of patterns mentioned above.
 
 
 ### Download:
@@ -28,25 +28,25 @@ Stay tuned, we are going to be listed in Mac App Store!
     <div class="item active">
       <img src="/img/icon-composer/0.png"/>
       <div class="carousel-caption">
-        <h3>Flowchart</h3>
+        <h3>Puppy Icon</h3>
       </div>
     </div>
     <div class="item">
       <img src="/img/icon-composer/1.png"/>
       <div class="carousel-caption">
-        <h3>Emoji, Font icons, Code highlight</h3>
+        <h3>Girl Icon</h3>
       </div>
     </div>
     <div class="item">
       <img src="/img/icon-composer/2.png"/>
       <div class="carousel-caption">
-        <h3>Table, Task list</h3>
+        <h3>8-ball Icon</h3>
       </div>
     </div>
     <div class="item">
       <img src="/img/icon-composer/3.png"/>
       <div class="carousel-caption">
-        <h3>Footnote, Mathematical formula</h3>
+        <h3>Bear Icon</h3>
       </div>
     </div>
   </div>
